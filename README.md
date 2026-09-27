@@ -29,5 +29,7 @@ feature branch and merged into main via Pull Requests.
 - Division-by-zero handling
 
 ## Sample Execution Screenshot
-<img width="1211" height="985" alt="runningprogram" src="https://github.com/user-attachments/assets/8b7a1365-2877-4c80-a3eb-a842c5ce88a3" />
+<img width="1538" height="972" alt="calcmaster" src="https://github.com/user-attachments/assets/a03284ba-00fa-4500-9197-59386563dc72" />
+<img width="788" height="387" alt="error" src="https://github.com/user-attachments/assets/e797025b-f733-4086-91f8-ab6c43e758c6" />
+
 
